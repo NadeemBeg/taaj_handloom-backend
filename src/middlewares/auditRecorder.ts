@@ -6,7 +6,7 @@ const WRITE_METHODS = new Set(['POST', 'PATCH', 'PUT', 'DELETE']);
 
 /**
  * Records privileged writes to the audit trail. Registers a response-finish
- * hook so `req.user` (set by `authenticate`) is available by the time it runs. (only ndm)
+ * hook so `req.user` (set by `authenticate`) is available by the time it runs.
  * Fire-and-forget: never blocks or fails the request.
  */
 export function auditRecorder(req: Request, res: Response, next: NextFunction): void {
