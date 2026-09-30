@@ -10,8 +10,8 @@ const envSchema = z.object({
   PORT: z.coerce.number().int().positive().default(3000),
   API_PREFIX: z.string().default('/api/v1'),
 
-  FRONTEND_URL: z.string().url('https://taaj-handloom-frontend.vercel.app/').default('http://localhost:3001'),
-  ADMIN_URL: z.string().url('https://taaj-handloom-frontend-q8jb.vercel.app/').default('http://localhost:3002'),
+  FRONTEND_URL: z.string().url().default('https://taaj-handloom-frontend.vercel.app/'), //http://localhost:3001
+  ADMIN_URL: z.string().url().default('https://taaj-handloom-frontend-q8jb.vercel.app/'), //http://localhost:3002
 
   MONGODB_URI: z.string().min(1, 'MONGODB_URI is required'),
 
