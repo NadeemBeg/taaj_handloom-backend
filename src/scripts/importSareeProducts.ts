@@ -156,7 +156,7 @@ function catDescription(name: string): string {
   );
 }
 
-function productContent(color: string, catName: string, sku: string) {
+function productContent(color: string, catName: string, _sku: string) {
   const singular = catName.replace(/ Sarees?$/i, ' Saree').replace(/Sarees?$/i, 'Saree');
   const base = /maheshwari/i.test(singular) ? singular : `Maheshwari ${singular}`;
   const name = `${color} ${base}`;

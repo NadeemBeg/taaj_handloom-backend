@@ -1,0 +1,46 @@
+# Render Blueprint for the TAAJ Handloom API.
+# Deploy: Render Dashboard → New → Blueprint → connect NadeemBeg/taaj_handloom-backend.
+# Secrets (sync:false) are entered once in the Render dashboard, never committed.
+services:
+  - type: web
+    name: taaj-handloom-api
+    runtime: node
+    plan: free
+    region: singapore
+    branch: main
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/v1/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: API_PREFIX
+        value: /api/v1
+      # --- Secrets: set these in the Render dashboard ---
+      - key: MONGODB_URI            # Atlas SRV string incl. /taaj_handloom
+        sync: false
+      - key: JWT_ACCESS_SECRET
+        sync: false
+      - key: JWT_REFRESH_SECRET
+        sync: false
+      - key: COOKIE_SECRET
+        sync: false
+      - key: CLOUDINARY_CLOUD_NAME
+        sync: false
+      - key: CLOUDINARY_API_KEY
+        sync: false
+      - key: CLOUDINARY_API_SECRET
+        sync: false
+      - key: WHATSAPP_NUMBER
+        sync: false
+      # CORS allowlist — set to your deployed Vercel URLs
+      - key: FRONTEND_URL
+        sync: false
+      - key: ADMIN_URL
+        sync: false
+      # --- Non-secret token lifetimes ---
+      - key: JWT_ACCESS_EXPIRES
+        value: 15m
+      - key: JWT_REFRESH_EXPIRES
+        value: 7d
