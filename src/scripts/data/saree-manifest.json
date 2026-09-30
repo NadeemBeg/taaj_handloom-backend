@@ -1,0 +1,1808 @@
+{
+  "generatedAt": "2026-09-22T11:15:02.002241+00:00",
+  "sourceDir": "/home/nadeem/Downloads/saree photos",
+  "cap": 15,
+  "categories": {
+    "maheshwari-silk-sarees": {
+      "folder": "Maheshwari Silk Sarees",
+      "name": "Maheshwari Silk Sarees",
+      "isNew": false,
+      "skuPrefix": "MHS",
+      "image": {
+        "url": "/static/categories/maheshwari-silk-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "MHS001",
+          "color": "Emerald",
+          "url": "/static/products/maheshwari-silk-sarees/MHS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0035.jpg"
+        }
+      ]
+    },
+    "garbha-reshami-silk-sarees": {
+      "folder": "Garbha Reshami Silk Sarees",
+      "name": "Garbha Reshami Silk Sarees",
+      "isNew": false,
+      "skuPrefix": "GRS",
+      "image": {
+        "url": "/static/categories/garbha-reshami-silk-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "GRS001",
+          "color": "Red",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0015.jpg"
+        },
+        {
+          "sku": "GRS002",
+          "color": "Teal",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260711-WA0083.jpg"
+        },
+        {
+          "sku": "GRS003",
+          "color": "Grey",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0024.jpg"
+        },
+        {
+          "sku": "GRS004",
+          "color": "Beige",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0025.jpg"
+        },
+        {
+          "sku": "GRS005",
+          "color": "Pink",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0030.jpg"
+        },
+        {
+          "sku": "GRS006",
+          "color": "Grey",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0026.jpg"
+        },
+        {
+          "sku": "GRS007",
+          "color": "Mustard",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260711-WA0043.jpg"
+        },
+        {
+          "sku": "GRS008",
+          "color": "Rani Pink",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260729-WA0078.jpg"
+        },
+        {
+          "sku": "GRS009",
+          "color": "Red",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0017.jpg"
+        },
+        {
+          "sku": "GRS010",
+          "color": "Red",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0029.jpg"
+        },
+        {
+          "sku": "GRS011",
+          "color": "Rust",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0057.jpg"
+        },
+        {
+          "sku": "GRS012",
+          "color": "Brown",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0067.jpg"
+        },
+        {
+          "sku": "GRS013",
+          "color": "Pink",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260712-WA0028.jpg"
+        },
+        {
+          "sku": "GRS014",
+          "color": "Emerald",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0065.jpg"
+        },
+        {
+          "sku": "GRS015",
+          "color": "Grey",
+          "url": "/static/products/garbha-reshami-silk-sarees/GRS015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0064.jpg"
+        }
+      ]
+    },
+    "lotus-butta-sarees": {
+      "folder": "Lotus Butta Sarees",
+      "name": "Lotus Butta Sarees",
+      "isNew": false,
+      "skuPrefix": "LBS",
+      "image": {
+        "url": "/static/categories/lotus-butta-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "LBS001",
+          "color": "Red",
+          "url": "/static/products/lotus-butta-sarees/LBS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0016.jpg"
+        },
+        {
+          "sku": "LBS002",
+          "color": "Purple",
+          "url": "/static/products/lotus-butta-sarees/LBS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0089.jpeg"
+        },
+        {
+          "sku": "LBS003",
+          "color": "Red",
+          "url": "/static/products/lotus-butta-sarees/LBS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260730-WA0012.jpg"
+        },
+        {
+          "sku": "LBS004",
+          "color": "Navy",
+          "url": "/static/products/lotus-butta-sarees/LBS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0171.jpg"
+        },
+        {
+          "sku": "LBS005",
+          "color": "Maroon",
+          "url": "/static/products/lotus-butta-sarees/LBS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0095.jpg"
+        },
+        {
+          "sku": "LBS006",
+          "color": "Red",
+          "url": "/static/products/lotus-butta-sarees/LBS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0083.jpg"
+        },
+        {
+          "sku": "LBS007",
+          "color": "Teal",
+          "url": "/static/products/lotus-butta-sarees/LBS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0084.jpg"
+        },
+        {
+          "sku": "LBS008",
+          "color": "Red",
+          "url": "/static/products/lotus-butta-sarees/LBS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0060.jpg"
+        },
+        {
+          "sku": "LBS009",
+          "color": "Pink",
+          "url": "/static/products/lotus-butta-sarees/LBS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0009.jpg"
+        },
+        {
+          "sku": "LBS010",
+          "color": "Brown",
+          "url": "/static/products/lotus-butta-sarees/LBS010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0017.jpg"
+        },
+        {
+          "sku": "LBS011",
+          "color": "Brown",
+          "url": "/static/products/lotus-butta-sarees/LBS011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0008.jpg"
+        },
+        {
+          "sku": "LBS012",
+          "color": "Pink",
+          "url": "/static/products/lotus-butta-sarees/LBS012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0026.jpg"
+        },
+        {
+          "sku": "LBS013",
+          "color": "Pink",
+          "url": "/static/products/lotus-butta-sarees/LBS013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0078.jpg"
+        },
+        {
+          "sku": "LBS014",
+          "color": "Emerald",
+          "url": "/static/products/lotus-butta-sarees/LBS014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0079.jpg"
+        },
+        {
+          "sku": "LBS015",
+          "color": "Maroon",
+          "url": "/static/products/lotus-butta-sarees/LBS015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0019.jpg"
+        }
+      ]
+    },
+    "tissue-silk-sarees": {
+      "folder": "Tissue Silk",
+      "name": "Tissue Silk Sarees",
+      "isNew": false,
+      "skuPrefix": "TSS",
+      "image": {
+        "url": "/static/categories/tissue-silk-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "TSS001",
+          "color": "Rust",
+          "url": "/static/products/tissue-silk-sarees/TSS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260708-WA0066.jpg"
+        },
+        {
+          "sku": "TSS002",
+          "color": "Beige",
+          "url": "/static/products/tissue-silk-sarees/TSS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0027.jpg"
+        },
+        {
+          "sku": "TSS003",
+          "color": "Mustard",
+          "url": "/static/products/tissue-silk-sarees/TSS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0095.jpg"
+        },
+        {
+          "sku": "TSS004",
+          "color": "Purple",
+          "url": "/static/products/tissue-silk-sarees/TSS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0128.jpg"
+        },
+        {
+          "sku": "TSS005",
+          "color": "Red",
+          "url": "/static/products/tissue-silk-sarees/TSS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0061.jpg"
+        },
+        {
+          "sku": "TSS006",
+          "color": "Maroon",
+          "url": "/static/products/tissue-silk-sarees/TSS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0070.jpg"
+        },
+        {
+          "sku": "TSS007",
+          "color": "Red",
+          "url": "/static/products/tissue-silk-sarees/TSS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0055.jpg"
+        },
+        {
+          "sku": "TSS008",
+          "color": "Mustard",
+          "url": "/static/products/tissue-silk-sarees/TSS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0085.jpg"
+        },
+        {
+          "sku": "TSS009",
+          "color": "Mustard",
+          "url": "/static/products/tissue-silk-sarees/TSS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0079.jpg"
+        },
+        {
+          "sku": "TSS010",
+          "color": "Green",
+          "url": "/static/products/tissue-silk-sarees/TSS010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0101.jpg"
+        },
+        {
+          "sku": "TSS011",
+          "color": "Beige",
+          "url": "/static/products/tissue-silk-sarees/TSS011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260711-WA0077.jpg"
+        },
+        {
+          "sku": "TSS012",
+          "color": "Maroon",
+          "url": "/static/products/tissue-silk-sarees/TSS012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0077.jpg"
+        },
+        {
+          "sku": "TSS013",
+          "color": "Emerald",
+          "url": "/static/products/tissue-silk-sarees/TSS013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0037.jpg"
+        },
+        {
+          "sku": "TSS014",
+          "color": "Maroon",
+          "url": "/static/products/tissue-silk-sarees/TSS014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0112.jpg"
+        },
+        {
+          "sku": "TSS015",
+          "color": "Beige",
+          "url": "/static/products/tissue-silk-sarees/TSS015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0108.jpg"
+        }
+      ]
+    },
+    "zari-checks-sarees": {
+      "folder": "Zari Checks",
+      "name": "Zari Checks Sarees",
+      "isNew": false,
+      "skuPrefix": "ZCS",
+      "image": {
+        "url": "/static/categories/zari-checks-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "ZCS001",
+          "color": "Red",
+          "url": "/static/products/zari-checks-sarees/ZCS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0022.jpg"
+        },
+        {
+          "sku": "ZCS002",
+          "color": "Rust",
+          "url": "/static/products/zari-checks-sarees/ZCS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0065.jpg"
+        },
+        {
+          "sku": "ZCS003",
+          "color": "Red",
+          "url": "/static/products/zari-checks-sarees/ZCS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0084.jpg"
+        },
+        {
+          "sku": "ZCS004",
+          "color": "Brown",
+          "url": "/static/products/zari-checks-sarees/ZCS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0168.jpg"
+        },
+        {
+          "sku": "ZCS005",
+          "color": "Red",
+          "url": "/static/products/zari-checks-sarees/ZCS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0167.jpg"
+        },
+        {
+          "sku": "ZCS006",
+          "color": "Maroon",
+          "url": "/static/products/zari-checks-sarees/ZCS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0063.jpg"
+        },
+        {
+          "sku": "ZCS007",
+          "color": "Brown",
+          "url": "/static/products/zari-checks-sarees/ZCS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0009.jpg"
+        },
+        {
+          "sku": "ZCS008",
+          "color": "Rust",
+          "url": "/static/products/zari-checks-sarees/ZCS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0072.jpg"
+        },
+        {
+          "sku": "ZCS009",
+          "color": "Mustard",
+          "url": "/static/products/zari-checks-sarees/ZCS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0062.jpg"
+        },
+        {
+          "sku": "ZCS010",
+          "color": "Brown",
+          "url": "/static/products/zari-checks-sarees/ZCS010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0095.jpg"
+        },
+        {
+          "sku": "ZCS011",
+          "color": "Mustard",
+          "url": "/static/products/zari-checks-sarees/ZCS011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0059.jpg"
+        },
+        {
+          "sku": "ZCS012",
+          "color": "Pink",
+          "url": "/static/products/zari-checks-sarees/ZCS012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0057.jpg"
+        },
+        {
+          "sku": "ZCS013",
+          "color": "Beige",
+          "url": "/static/products/zari-checks-sarees/ZCS013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0049.jpg"
+        },
+        {
+          "sku": "ZCS014",
+          "color": "Pink",
+          "url": "/static/products/zari-checks-sarees/ZCS014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0031.jpg"
+        },
+        {
+          "sku": "ZCS015",
+          "color": "Maroon",
+          "url": "/static/products/zari-checks-sarees/ZCS015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0024.jpg"
+        }
+      ]
+    },
+    "big-border-sarees": {
+      "folder": "Big Border Simple Saree",
+      "name": "Big Border Sarees",
+      "isNew": true,
+      "skuPrefix": "BBS",
+      "image": {
+        "url": "/static/categories/big-border-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "BBS001",
+          "color": "Red",
+          "url": "/static/products/big-border-sarees/BBS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0063.jpg"
+        },
+        {
+          "sku": "BBS002",
+          "color": "Rust",
+          "url": "/static/products/big-border-sarees/BBS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0094.jpg"
+        },
+        {
+          "sku": "BBS003",
+          "color": "Rust",
+          "url": "/static/products/big-border-sarees/BBS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0061.jpg"
+        },
+        {
+          "sku": "BBS004",
+          "color": "Brown",
+          "url": "/static/products/big-border-sarees/BBS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0011.jpg"
+        }
+      ]
+    },
+    "big-small-border-sarees": {
+      "folder": "Big & Small Border",
+      "name": "Big & Small Border Sarees",
+      "isNew": true,
+      "skuPrefix": "BSB",
+      "image": {
+        "url": "/static/categories/big-small-border-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "BSB001",
+          "color": "Rani Pink",
+          "url": "/static/products/big-small-border-sarees/BSB001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0016.jpg"
+        },
+        {
+          "sku": "BSB002",
+          "color": "Pink",
+          "url": "/static/products/big-small-border-sarees/BSB002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0080.jpg"
+        },
+        {
+          "sku": "BSB003",
+          "color": "Pink",
+          "url": "/static/products/big-small-border-sarees/BSB003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0065.jpg"
+        },
+        {
+          "sku": "BSB004",
+          "color": "Beige",
+          "url": "/static/products/big-small-border-sarees/BSB004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0126.jpg"
+        },
+        {
+          "sku": "BSB005",
+          "color": "Pink",
+          "url": "/static/products/big-small-border-sarees/BSB005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0029.jpg"
+        },
+        {
+          "sku": "BSB006",
+          "color": "Navy",
+          "url": "/static/products/big-small-border-sarees/BSB006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0041.jpg"
+        },
+        {
+          "sku": "BSB007",
+          "color": "Navy",
+          "url": "/static/products/big-small-border-sarees/BSB007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0080.jpg"
+        },
+        {
+          "sku": "BSB008",
+          "color": "Red",
+          "url": "/static/products/big-small-border-sarees/BSB008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0035.jpg"
+        },
+        {
+          "sku": "BSB009",
+          "color": "Maroon",
+          "url": "/static/products/big-small-border-sarees/BSB009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0008.jpg"
+        },
+        {
+          "sku": "BSB010",
+          "color": "Mustard",
+          "url": "/static/products/big-small-border-sarees/BSB010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0075.jpg"
+        }
+      ]
+    },
+    "multi-colour-big-border-sarees": {
+      "folder": "Multi-Colour Big Border Saree",
+      "name": "Multi-Colour Big Border Sarees",
+      "isNew": true,
+      "skuPrefix": "MBB",
+      "image": {
+        "url": "/static/categories/multi-colour-big-border-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "MBB001",
+          "color": "Pink",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0058.jpg"
+        },
+        {
+          "sku": "MBB002",
+          "color": "Pink",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0064.jpg"
+        },
+        {
+          "sku": "MBB003",
+          "color": "Navy",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0025.jpg"
+        },
+        {
+          "sku": "MBB004",
+          "color": "Pink",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260712-WA0018.jpg"
+        },
+        {
+          "sku": "MBB005",
+          "color": "Emerald",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0053.jpg"
+        },
+        {
+          "sku": "MBB006",
+          "color": "Emerald",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0025.jpg"
+        },
+        {
+          "sku": "MBB007",
+          "color": "Rust",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0025.jpg"
+        },
+        {
+          "sku": "MBB008",
+          "color": "Emerald",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0166.jpg"
+        },
+        {
+          "sku": "MBB009",
+          "color": "Rust",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0073.jpg"
+        },
+        {
+          "sku": "MBB010",
+          "color": "Brown",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0021.jpg"
+        },
+        {
+          "sku": "MBB011",
+          "color": "Maroon",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0088.jpg"
+        },
+        {
+          "sku": "MBB012",
+          "color": "Rust",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0067.jpg"
+        },
+        {
+          "sku": "MBB013",
+          "color": "Red",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0042.jpg"
+        },
+        {
+          "sku": "MBB014",
+          "color": "Rani Pink",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0027.jpg"
+        },
+        {
+          "sku": "MBB015",
+          "color": "Rust",
+          "url": "/static/products/multi-colour-big-border-sarees/MBB015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0011.jpg"
+        }
+      ]
+    },
+    "small-border-checks-sarees": {
+      "folder": "Small Border Checks Saree",
+      "name": "Small Border Checks Sarees",
+      "isNew": true,
+      "skuPrefix": "SBC",
+      "image": {
+        "url": "/static/categories/small-border-checks-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "SBC001",
+          "color": "Red",
+          "url": "/static/products/small-border-checks-sarees/SBC001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0030.jpg"
+        },
+        {
+          "sku": "SBC002",
+          "color": "Purple",
+          "url": "/static/products/small-border-checks-sarees/SBC002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0047.jpg"
+        },
+        {
+          "sku": "SBC003",
+          "color": "Purple",
+          "url": "/static/products/small-border-checks-sarees/SBC003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0022.jpg"
+        },
+        {
+          "sku": "SBC004",
+          "color": "Emerald",
+          "url": "/static/products/small-border-checks-sarees/SBC004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0001.jpg"
+        },
+        {
+          "sku": "SBC005",
+          "color": "Yellow",
+          "url": "/static/products/small-border-checks-sarees/SBC005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0056.jpg"
+        },
+        {
+          "sku": "SBC006",
+          "color": "Teal",
+          "url": "/static/products/small-border-checks-sarees/SBC006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0019.jpg"
+        },
+        {
+          "sku": "SBC007",
+          "color": "Brown",
+          "url": "/static/products/small-border-checks-sarees/SBC007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260629-WA0093.jpg"
+        },
+        {
+          "sku": "SBC008",
+          "color": "Rani Pink",
+          "url": "/static/products/small-border-checks-sarees/SBC008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0022.jpg"
+        },
+        {
+          "sku": "SBC009",
+          "color": "Blue",
+          "url": "/static/products/small-border-checks-sarees/SBC009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0058.jpg"
+        },
+        {
+          "sku": "SBC010",
+          "color": "Maroon",
+          "url": "/static/products/small-border-checks-sarees/SBC010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0047.jpg"
+        },
+        {
+          "sku": "SBC011",
+          "color": "Yellow",
+          "url": "/static/products/small-border-checks-sarees/SBC011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260716-WA0072.jpg"
+        },
+        {
+          "sku": "SBC012",
+          "color": "Pink",
+          "url": "/static/products/small-border-checks-sarees/SBC012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0141.jpg"
+        },
+        {
+          "sku": "SBC013",
+          "color": "Red",
+          "url": "/static/products/small-border-checks-sarees/SBC013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0050.jpg"
+        },
+        {
+          "sku": "SBC014",
+          "color": "Emerald",
+          "url": "/static/products/small-border-checks-sarees/SBC014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0003.jpg"
+        },
+        {
+          "sku": "SBC015",
+          "color": "Purple",
+          "url": "/static/products/small-border-checks-sarees/SBC015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0154.jpg"
+        }
+      ]
+    },
+    "small-border-multi-colour-sarees": {
+      "folder": "Small Border Multi Colour saree",
+      "name": "Small Border Multi-Colour Sarees",
+      "isNew": true,
+      "skuPrefix": "SBM",
+      "image": {
+        "url": "/static/categories/small-border-multi-colour-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "SBM001",
+          "color": "Red",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0031.jpg"
+        },
+        {
+          "sku": "SBM002",
+          "color": "Red",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0053.jpg"
+        },
+        {
+          "sku": "SBM003",
+          "color": "Grey",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0051.jpg"
+        },
+        {
+          "sku": "SBM004",
+          "color": "Purple",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0062.jpg"
+        },
+        {
+          "sku": "SBM005",
+          "color": "Navy",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0033.jpg"
+        },
+        {
+          "sku": "SBM006",
+          "color": "Maroon",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0028.jpg"
+        },
+        {
+          "sku": "SBM007",
+          "color": "Rust",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260725-WA0075.jpg"
+        },
+        {
+          "sku": "SBM008",
+          "color": "Rani Pink",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0045.jpg"
+        },
+        {
+          "sku": "SBM009",
+          "color": "Rani Pink",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0081.jpg"
+        },
+        {
+          "sku": "SBM010",
+          "color": "Emerald",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0128.jpg"
+        },
+        {
+          "sku": "SBM011",
+          "color": "Red",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0075.jpg"
+        },
+        {
+          "sku": "SBM012",
+          "color": "Emerald",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0077.jpg"
+        },
+        {
+          "sku": "SBM013",
+          "color": "Beige",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0048.jpg"
+        },
+        {
+          "sku": "SBM014",
+          "color": "Pink",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0051.jpg"
+        },
+        {
+          "sku": "SBM015",
+          "color": "Mustard",
+          "url": "/static/products/small-border-multi-colour-sarees/SBM015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0029.jpg"
+        }
+      ]
+    },
+    "heavy-pallu-sarees": {
+      "folder": "Heavy Pallu Saree",
+      "name": "Heavy Pallu Sarees",
+      "isNew": true,
+      "skuPrefix": "HPS",
+      "image": {
+        "url": "/static/categories/heavy-pallu-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "HPS001",
+          "color": "Red",
+          "url": "/static/products/heavy-pallu-sarees/HPS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260708-WA0021.jpg"
+        },
+        {
+          "sku": "HPS002",
+          "color": "Red",
+          "url": "/static/products/heavy-pallu-sarees/HPS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260708-WA0020.jpg"
+        },
+        {
+          "sku": "HPS003",
+          "color": "Maroon",
+          "url": "/static/products/heavy-pallu-sarees/HPS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0105.jpg"
+        },
+        {
+          "sku": "HPS004",
+          "color": "Mustard",
+          "url": "/static/products/heavy-pallu-sarees/HPS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0062.jpg"
+        },
+        {
+          "sku": "HPS005",
+          "color": "Red",
+          "url": "/static/products/heavy-pallu-sarees/HPS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260629-WA0094.jpg"
+        },
+        {
+          "sku": "HPS006",
+          "color": "Beige",
+          "url": "/static/products/heavy-pallu-sarees/HPS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260725-WA0076.jpg"
+        },
+        {
+          "sku": "HPS007",
+          "color": "Brown",
+          "url": "/static/products/heavy-pallu-sarees/HPS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0099.jpg"
+        },
+        {
+          "sku": "HPS008",
+          "color": "Pink",
+          "url": "/static/products/heavy-pallu-sarees/HPS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0020.jpg"
+        },
+        {
+          "sku": "HPS009",
+          "color": "Rust",
+          "url": "/static/products/heavy-pallu-sarees/HPS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260708-WA0044.jpg"
+        }
+      ]
+    },
+    "kossa-pallu-sarees": {
+      "folder": "Kossa Pallu Saree",
+      "name": "Kossa Pallu Sarees",
+      "isNew": true,
+      "skuPrefix": "KPS",
+      "image": {
+        "url": "/static/categories/kossa-pallu-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "KPS001",
+          "color": "Rust",
+          "url": "/static/products/kossa-pallu-sarees/KPS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0051.jpg"
+        },
+        {
+          "sku": "KPS002",
+          "color": "Maroon",
+          "url": "/static/products/kossa-pallu-sarees/KPS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0091.jpg"
+        },
+        {
+          "sku": "KPS003",
+          "color": "Beige",
+          "url": "/static/products/kossa-pallu-sarees/KPS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0040.jpg"
+        },
+        {
+          "sku": "KPS004",
+          "color": "Grey",
+          "url": "/static/products/kossa-pallu-sarees/KPS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0096.jpg"
+        },
+        {
+          "sku": "KPS005",
+          "color": "Red",
+          "url": "/static/products/kossa-pallu-sarees/KPS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0092.jpg"
+        },
+        {
+          "sku": "KPS006",
+          "color": "Beige",
+          "url": "/static/products/kossa-pallu-sarees/KPS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260711-WA0050.jpg"
+        },
+        {
+          "sku": "KPS007",
+          "color": "Off-White",
+          "url": "/static/products/kossa-pallu-sarees/KPS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0032.jpg"
+        },
+        {
+          "sku": "KPS008",
+          "color": "Rust",
+          "url": "/static/products/kossa-pallu-sarees/KPS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0090.jpg"
+        },
+        {
+          "sku": "KPS009",
+          "color": "Maroon",
+          "url": "/static/products/kossa-pallu-sarees/KPS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0025.jpg"
+        },
+        {
+          "sku": "KPS010",
+          "color": "Navy",
+          "url": "/static/products/kossa-pallu-sarees/KPS010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0043.jpg"
+        },
+        {
+          "sku": "KPS011",
+          "color": "Beige",
+          "url": "/static/products/kossa-pallu-sarees/KPS011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0023.jpg"
+        },
+        {
+          "sku": "KPS012",
+          "color": "Beige",
+          "url": "/static/products/kossa-pallu-sarees/KPS012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0100.jpg"
+        },
+        {
+          "sku": "KPS013",
+          "color": "Beige",
+          "url": "/static/products/kossa-pallu-sarees/KPS013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0102.jpg"
+        },
+        {
+          "sku": "KPS014",
+          "color": "Beige",
+          "url": "/static/products/kossa-pallu-sarees/KPS014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0024.jpg"
+        },
+        {
+          "sku": "KPS015",
+          "color": "Mustard",
+          "url": "/static/products/kossa-pallu-sarees/KPS015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260711-WA0048.jpg"
+        }
+      ]
+    },
+    "diya-butta-sarees": {
+      "folder": "Diya Butta Saree",
+      "name": "Diya Butta Sarees",
+      "isNew": true,
+      "skuPrefix": "DBS",
+      "image": {
+        "url": "/static/categories/diya-butta-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "DBS001",
+          "color": "Maroon",
+          "url": "/static/products/diya-butta-sarees/DBS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0029.jpg"
+        },
+        {
+          "sku": "DBS002",
+          "color": "Rani Pink",
+          "url": "/static/products/diya-butta-sarees/DBS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0097.jpg"
+        },
+        {
+          "sku": "DBS003",
+          "color": "Maroon",
+          "url": "/static/products/diya-butta-sarees/DBS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0072.jpg"
+        },
+        {
+          "sku": "DBS004",
+          "color": "Mustard",
+          "url": "/static/products/diya-butta-sarees/DBS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0005.jpg"
+        },
+        {
+          "sku": "DBS005",
+          "color": "Red",
+          "url": "/static/products/diya-butta-sarees/DBS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0006.jpg"
+        },
+        {
+          "sku": "DBS006",
+          "color": "Red",
+          "url": "/static/products/diya-butta-sarees/DBS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0093.jpg"
+        },
+        {
+          "sku": "DBS007",
+          "color": "Rani Pink",
+          "url": "/static/products/diya-butta-sarees/DBS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0017.jpg"
+        },
+        {
+          "sku": "DBS008",
+          "color": "Red",
+          "url": "/static/products/diya-butta-sarees/DBS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0040.jpg"
+        },
+        {
+          "sku": "DBS009",
+          "color": "Emerald",
+          "url": "/static/products/diya-butta-sarees/DBS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0031.jpg"
+        }
+      ]
+    },
+    "chand-tara-sarees": {
+      "folder": "Chand Tara saree",
+      "name": "Chand Tara Sarees",
+      "isNew": true,
+      "skuPrefix": "CTS",
+      "image": {
+        "url": "/static/categories/chand-tara-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "CTS001",
+          "color": "Emerald",
+          "url": "/static/products/chand-tara-sarees/CTS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0066.jpg"
+        },
+        {
+          "sku": "CTS002",
+          "color": "Maroon",
+          "url": "/static/products/chand-tara-sarees/CTS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0042.jpg"
+        }
+      ]
+    },
+    "nayanthara-sarees": {
+      "folder": "Nayanthara Saree",
+      "name": "Nayanthara Sarees",
+      "isNew": true,
+      "skuPrefix": "NYS",
+      "image": {
+        "url": "/static/categories/nayanthara-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "NYS001",
+          "color": "Red",
+          "url": "/static/products/nayanthara-sarees/NYS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260709-WA0021.jpg"
+        },
+        {
+          "sku": "NYS002",
+          "color": "Red",
+          "url": "/static/products/nayanthara-sarees/NYS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0030.jpg"
+        },
+        {
+          "sku": "NYS003",
+          "color": "Rust",
+          "url": "/static/products/nayanthara-sarees/NYS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260714-WA0109.jpg"
+        },
+        {
+          "sku": "NYS004",
+          "color": "Red",
+          "url": "/static/products/nayanthara-sarees/NYS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0039.jpg"
+        },
+        {
+          "sku": "NYS005",
+          "color": "Red",
+          "url": "/static/products/nayanthara-sarees/NYS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0083.jpg"
+        },
+        {
+          "sku": "NYS006",
+          "color": "Maroon",
+          "url": "/static/products/nayanthara-sarees/NYS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0041.jpg"
+        },
+        {
+          "sku": "NYS007",
+          "color": "Pink",
+          "url": "/static/products/nayanthara-sarees/NYS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0017.jpg"
+        },
+        {
+          "sku": "NYS008",
+          "color": "Red",
+          "url": "/static/products/nayanthara-sarees/NYS008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260629-WA0101.jpg"
+        },
+        {
+          "sku": "NYS009",
+          "color": "Red",
+          "url": "/static/products/nayanthara-sarees/NYS009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0028.jpg"
+        },
+        {
+          "sku": "NYS010",
+          "color": "Rani Pink",
+          "url": "/static/products/nayanthara-sarees/NYS010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260718-WA0038.jpg"
+        },
+        {
+          "sku": "NYS011",
+          "color": "Purple",
+          "url": "/static/products/nayanthara-sarees/NYS011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0012.jpg"
+        },
+        {
+          "sku": "NYS012",
+          "color": "Purple",
+          "url": "/static/products/nayanthara-sarees/NYS012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260701-WA0023.jpg"
+        }
+      ]
+    },
+    "star-buti-sarees": {
+      "folder": "Start Buti",
+      "name": "Star Buti Sarees",
+      "isNew": true,
+      "skuPrefix": "STB",
+      "image": {
+        "url": "/static/categories/star-buti-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "STB001",
+          "color": "Red",
+          "url": "/static/products/star-buti-sarees/STB001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0006.jpg"
+        },
+        {
+          "sku": "STB002",
+          "color": "Black",
+          "url": "/static/products/star-buti-sarees/STB002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260706-WA0125.jpg"
+        },
+        {
+          "sku": "STB003",
+          "color": "Mustard",
+          "url": "/static/products/star-buti-sarees/STB003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260728-WA0036.jpg"
+        },
+        {
+          "sku": "STB004",
+          "color": "Pink",
+          "url": "/static/products/star-buti-sarees/STB004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260728-WA0031.jpg"
+        },
+        {
+          "sku": "STB005",
+          "color": "Mustard",
+          "url": "/static/products/star-buti-sarees/STB005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260728-WA0033.jpg"
+        },
+        {
+          "sku": "STB006",
+          "color": "Pink",
+          "url": "/static/products/star-buti-sarees/STB006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260711-WA0030.jpg"
+        },
+        {
+          "sku": "STB007",
+          "color": "Maroon",
+          "url": "/static/products/star-buti-sarees/STB007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0031.jpg"
+        },
+        {
+          "sku": "STB008",
+          "color": "Blue",
+          "url": "/static/products/star-buti-sarees/STB008.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260725-WA0019.jpg"
+        },
+        {
+          "sku": "STB009",
+          "color": "Pink",
+          "url": "/static/products/star-buti-sarees/STB009.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260725-WA0067.jpg"
+        },
+        {
+          "sku": "STB010",
+          "color": "Rani Pink",
+          "url": "/static/products/star-buti-sarees/STB010.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260707-WA0056.jpg"
+        },
+        {
+          "sku": "STB011",
+          "color": "Beige",
+          "url": "/static/products/star-buti-sarees/STB011.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0016.jpg"
+        },
+        {
+          "sku": "STB012",
+          "color": "Maroon",
+          "url": "/static/products/star-buti-sarees/STB012.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0011.jpg"
+        },
+        {
+          "sku": "STB013",
+          "color": "Pink",
+          "url": "/static/products/star-buti-sarees/STB013.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0037.jpg"
+        },
+        {
+          "sku": "STB014",
+          "color": "Maroon",
+          "url": "/static/products/star-buti-sarees/STB014.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260705-WA0058.jpg"
+        },
+        {
+          "sku": "STB015",
+          "color": "Pink",
+          "url": "/static/products/star-buti-sarees/STB015.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260708-WA0078.jpg"
+        }
+      ]
+    },
+    "star-buti-zari-pallu-sarees": {
+      "folder": "Start Buti Zari Pallu Saree",
+      "name": "Star Buti Zari Pallu Sarees",
+      "isNew": true,
+      "skuPrefix": "SBZ",
+      "image": {
+        "url": "/static/categories/star-buti-zari-pallu-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "SBZ001",
+          "color": "Rust",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260710-WA0052.jpg"
+        },
+        {
+          "sku": "SBZ002",
+          "color": "Beige",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260704-WA0009.jpg"
+        },
+        {
+          "sku": "SBZ003",
+          "color": "Purple",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0084.jpg"
+        },
+        {
+          "sku": "SBZ004",
+          "color": "Rust",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260725-WA0026.jpg"
+        },
+        {
+          "sku": "SBZ005",
+          "color": "Red",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0085.jpg"
+        },
+        {
+          "sku": "SBZ006",
+          "color": "Red",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260729-WA0074.jpg"
+        },
+        {
+          "sku": "SBZ007",
+          "color": "Mustard",
+          "url": "/static/products/star-buti-zari-pallu-sarees/SBZ007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260729-WA0070.jpg"
+        }
+      ]
+    },
+    "v-buti-sarees": {
+      "folder": "v buti saree",
+      "name": "V Buti Sarees",
+      "isNew": true,
+      "skuPrefix": "VBS",
+      "image": {
+        "url": "/static/categories/v-buti-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "VBS001",
+          "color": "Red",
+          "url": "/static/products/v-buti-sarees/VBS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0024.jpg"
+        },
+        {
+          "sku": "VBS002",
+          "color": "Navy",
+          "url": "/static/products/v-buti-sarees/VBS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0018.jpg"
+        },
+        {
+          "sku": "VBS003",
+          "color": "Maroon",
+          "url": "/static/products/v-buti-sarees/VBS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0053.jpg"
+        },
+        {
+          "sku": "VBS004",
+          "color": "Maroon",
+          "url": "/static/products/v-buti-sarees/VBS004.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260706-WA0121.jpg"
+        },
+        {
+          "sku": "VBS005",
+          "color": "Red",
+          "url": "/static/products/v-buti-sarees/VBS005.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0012.jpg"
+        },
+        {
+          "sku": "VBS006",
+          "color": "Rust",
+          "url": "/static/products/v-buti-sarees/VBS006.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260702-WA0051.jpg"
+        },
+        {
+          "sku": "VBS007",
+          "color": "Red",
+          "url": "/static/products/v-buti-sarees/VBS007.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260703-WA0020.jpg"
+        }
+      ]
+    },
+    "zari-line-sarees": {
+      "folder": "Zari Line Saree",
+      "name": "Zari Line Sarees",
+      "isNew": true,
+      "skuPrefix": "ZLS",
+      "image": {
+        "url": "/static/categories/zari-line-sarees.jpg"
+      },
+      "products": [
+        {
+          "sku": "ZLS001",
+          "color": "Mustard",
+          "url": "/static/products/zari-line-sarees/ZLS001.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260725-WA0037.jpg"
+        },
+        {
+          "sku": "ZLS002",
+          "color": "Brown",
+          "url": "/static/products/zari-line-sarees/ZLS002.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260630-WA0048.jpg"
+        },
+        {
+          "sku": "ZLS003",
+          "color": "Red",
+          "url": "/static/products/zari-line-sarees/ZLS003.jpg",
+          "width": 1000,
+          "height": 1333,
+          "source": "IMG-20260713-WA0069.jpg"
+        }
+      ]
+    }
+  }
+}

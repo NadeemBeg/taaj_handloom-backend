@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Env / secrets — never commit
+.env
+.env.local
+.env.*.local
+*credentials*.env
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Coverage & test
+coverage/
+.nyc_output/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Local media (regenerate via scripts)
+public/products/
+public/categories/

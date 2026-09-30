@@ -1,0 +1,26 @@
+{
+  "_comment": "Maps each source image folder (under ~/Downloads/saree photos) to a TAAJ category. 'isNew' subcategories are created under the 'sarees' parent; others upsert onto existing taxonomy slugs. Consumed by process_saree_images.py (for output dir) and importSareeProducts.ts (for category resolution + product prefix).",
+  "folders": {
+    "Maheshwari Silk Sarees":          { "name": "Maheshwari Silk Sarees",           "slug": "maheshwari-silk-sarees",          "isNew": false, "skuPrefix": "MHS" },
+    "Garbha Reshami Silk Sarees":      { "name": "Garbha Reshami Silk Sarees",       "slug": "garbha-reshami-silk-sarees",      "isNew": false, "skuPrefix": "GRS" },
+    "Lotus Butta Sarees":              { "name": "Lotus Butta Sarees",               "slug": "lotus-butta-sarees",              "isNew": false, "skuPrefix": "LBS" },
+    "Tissue Silk":                     { "name": "Tissue Silk Sarees",               "slug": "tissue-silk-sarees",              "isNew": false, "skuPrefix": "TSS" },
+    "Zari Checks":                     { "name": "Zari Checks Sarees",               "slug": "zari-checks-sarees",              "isNew": false, "skuPrefix": "ZCS" },
+    "Ganga-Jamuna Border Sarees":      { "name": "Ganga-Jamuna Border Sarees",       "slug": "ganga-jamuna-border-sarees",      "isNew": false, "skuPrefix": "GJB" },
+
+    "Big Border Simple Saree":         { "name": "Big Border Sarees",                "slug": "big-border-sarees",               "isNew": true,  "skuPrefix": "BBS" },
+    "Big & Small Border":              { "name": "Big & Small Border Sarees",        "slug": "big-small-border-sarees",         "isNew": true,  "skuPrefix": "BSB" },
+    "Multi-Colour Big Border Saree":   { "name": "Multi-Colour Big Border Sarees",   "slug": "multi-colour-big-border-sarees",  "isNew": true,  "skuPrefix": "MBB" },
+    "Small Border Checks Saree":       { "name": "Small Border Checks Sarees",       "slug": "small-border-checks-sarees",      "isNew": true,  "skuPrefix": "SBC" },
+    "Small Border Multi Colour saree": { "name": "Small Border Multi-Colour Sarees", "slug": "small-border-multi-colour-sarees","isNew": true,  "skuPrefix": "SBM" },
+    "Heavy Pallu Saree":               { "name": "Heavy Pallu Sarees",               "slug": "heavy-pallu-sarees",              "isNew": true,  "skuPrefix": "HPS" },
+    "Kossa Pallu Saree":               { "name": "Kossa Pallu Sarees",               "slug": "kossa-pallu-sarees",              "isNew": true,  "skuPrefix": "KPS" },
+    "Diya Butta Saree":                { "name": "Diya Butta Sarees",                "slug": "diya-butta-sarees",               "isNew": true,  "skuPrefix": "DBS" },
+    "Chand Tara saree":                { "name": "Chand Tara Sarees",                "slug": "chand-tara-sarees",               "isNew": true,  "skuPrefix": "CTS" },
+    "Nayanthara Saree":                { "name": "Nayanthara Sarees",                "slug": "nayanthara-sarees",               "isNew": true,  "skuPrefix": "NYS" },
+    "Start Buti":                      { "name": "Star Buti Sarees",                 "slug": "star-buti-sarees",                "isNew": true,  "skuPrefix": "STB" },
+    "Start Buti Zari Pallu Saree":     { "name": "Star Buti Zari Pallu Sarees",      "slug": "star-buti-zari-pallu-sarees",     "isNew": true,  "skuPrefix": "SBZ" },
+    "v buti saree":                    { "name": "V Buti Sarees",                    "slug": "v-buti-sarees",                   "isNew": true,  "skuPrefix": "VBS" },
+    "Zari Line Saree":                 { "name": "Zari Line Sarees",                 "slug": "zari-line-sarees",                "isNew": true,  "skuPrefix": "ZLS" }
+  }
+}
